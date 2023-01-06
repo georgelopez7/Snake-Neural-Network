@@ -1,6 +1,7 @@
 # Snake Neural Network
 
-![Project Image](project-image-url)
+![Screenshot 2023-01-06 084628](https://user-images.githubusercontent.com/71076769/211010421-f0080c60-e393-4764-b552-08ed66506a7f.png)
+
 
 > In this repository we have a neural network that learns how to play the retro arcade game Snake with live statistics to track its training progression. 
 
