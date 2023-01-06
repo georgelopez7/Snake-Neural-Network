@@ -35,7 +35,7 @@ The neural network used to train the neural network to play Snake uses a combina
 
         Used to plot the live statistics of the neural network, which includes **score**, **mean score** and **collison count**.
         
-[Back To The Top](#Snake Neural Network)
+[Back To The Top](#Snake-Neural-Network)
 
 ---
 
@@ -56,7 +56,7 @@ The screenshot below shows the  neural network achieving a score of **46** with 
 
 
 
-[Back To The Top](#Snake Neural Network)
+[Back To The Top](#Snake-Neural-Network)
 
 ---
 
@@ -66,7 +66,7 @@ The screenshot below shows the  neural network achieving a score of **46** with 
 - LinkedIn - [George Lopez](https://www.linkedin.com/in/george-benjamin-lopez/)
 
 
-[Back To The Top](#Snake Neural Network)
+[Back To The Top](#Snake-Neural-Network)
 
 
 
